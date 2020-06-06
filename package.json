@@ -1,0 +1,20 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Leonardo Toniolo",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "electron": "^9.0.2",
+    "electron-chartjs": "^1.0.0",
+    "node": "^14.4.0",
+    "os-utils": "0.0.14"
+  }
+}
